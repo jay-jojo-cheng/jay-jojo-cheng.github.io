@@ -4,8 +4,8 @@ code {background: white;}
 a {border-bottom: 1px solid #444444; color: #444444; text-decoration: none;}
 a:hover {border-bottom: 0;}
 
-nav a, footer a {color:#364F6A; text-decoration:none;}
-nav a:hover, footer a:hover {text-decoration:underline;}
+nav a, footer a {color:#9B9B9B; border-bottom: 0;}
+nav a:hover, footer a:hover {border-bottom: 1px solid #9B9B9B; text-decoration: none;}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
