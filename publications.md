@@ -40,8 +40,3 @@ description: Jay Jojo Cheng's publications
     Mahalingaiah S, Sun F, **Cheng JJ**, Chow ET, Lunetta KL, Murabito JM. <br>
     *Fertility Research and Practice*. 2017 Apr. doi:[10.1186/s40738-017-0034-0](https://doi.org/10.1186/s40738-017-0034-0)
 {: reversed="reversed"}
-
-0.  first item
-0.  second item
-0.  another item
-{: reversed="reversed"}
