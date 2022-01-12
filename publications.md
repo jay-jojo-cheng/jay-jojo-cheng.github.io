@@ -4,7 +4,7 @@ title: Publications
 description: Jay Jojo Cheng's publications
 ---
 
-### In preparation/Submitted
+## In preparation/Submitted
 
 **Metaanalysis of Individualized Treatment Rules via Sign-coherent Penalization.** <br>
 Optimal treatment assignment for heterogeneously sourced data (e.g. metaanalysis, federated learning, multi-center trials, etc.) <br>
@@ -14,7 +14,7 @@ Optimal treatment assignment for heterogeneously sourced data (e.g. metaanalysis
 Understanding the association between PM2.5 air pollution and PCOM incidence. <br>
 Fruh V, Mahalingaiah S, **Cheng JJ**, Aschengrau A, Lane KJ.
 
-### Publications
+## Publications
 
 **Multimodal Recruitment for an Internet-Based Pilot Study of Ovulation and Menstruation (OM) Health.** <br>
 Recruitment strategy and protocol for a women's health study. <br>
