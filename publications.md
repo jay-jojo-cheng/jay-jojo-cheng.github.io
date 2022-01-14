@@ -6,10 +6,10 @@ description: Jay Jojo Cheng's publications
 
 ## In preparation/Submitted
 
--   **Metaanalysis of Individualized Treatment Rules via Sign-coherent Penalization.** <br>
+-   **Metaanalysis of Individualized Treatment Rules via Sign-coherent Penalization.** [CHC] <br>
     Optimal treatment assignment for heterogeneously sourced data (e.g. metaanalysis, federated learning, multi-center trials, etc.) <br>
     **Cheng JJ**, Huling JD, Chen G.
--   **Fine Particulate Matter and Polycystic Ovarian Morphology.** <br>
+-   **Fine Particulate Matter and Polycystic Ovarian Morphology.** [FMCAL] <br>
     Understanding the association between PM2.5 air pollution and PCOM incidence. <br>
     Fruh V, Mahalingaiah S, **Cheng JJ**, Aschengrau A, Lane KJ.
 
