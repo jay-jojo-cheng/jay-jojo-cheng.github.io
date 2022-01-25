@@ -6,15 +6,17 @@ description: Jay Jojo Cheng's publications
 
 ## In preparation/Submitted
 
--   **Metaanalysis of Individualized Treatment Rules via Sign-coherent Penalization.** [CHC] <br>
-    Optimal treatment assignment for heterogeneously sourced data (e.g. metaanalysis, federated learning, multi-center trials, etc.) <br>
-    **Cheng JJ**, Huling JD, Chen G.
--   **Fine Particulate Matter and Polycystic Ovarian Morphology.** [FMCAL] <br>
-    Understanding the association between PM2.5 air pollution and PCOM incidence. <br>
-    Fruh V, Mahalingaiah S, **Cheng JJ**, Aschengrau A, Lane KJ.
+-   **Distributed Learning of Individualized Treatment Rules via Sign-coherency.** [CHC] <br>
+    Optimal treatment assignment for distributed data with heterogeneous populations (e.g. metaanalysis, federated learning, multi-center trials, etc.) <br>
+    **Cheng JJ**, Huling JD, Chen G. <br>
+    Submitted.
 
 ## Publications
 
+1.  **Fine Particulate Matter and Polycystic Ovarian Morphology.** <br>
+    Understanding the association between PM2.5 air pollution and PCOM incidence. <br>
+    Fruh V, Mahalingaiah S, **Cheng JJ**, Aschengrau A, Lane KJ. <br>
+    *Environmental Health*. 2022 Jan. Accepted.
 1.  **Multimodal Recruitment for an Internet-Based Pilot Study of Ovulation and Menstruation (OM) Health.** <br>
     Recruitment strategy and protocol for a women's health study. <br>
     Mahalingaiah S, **Cheng JJ**, Winter M, Rodriguez E, Fruh V, Williams A, Nguyen M, Madhavan R, Karanja P, MacRae J, Konanki SC, Lane KJ, Aschengrau A. <br>
