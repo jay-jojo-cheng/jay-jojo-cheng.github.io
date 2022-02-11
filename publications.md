@@ -6,8 +6,8 @@ description: Jay Jojo Cheng's publications
 
 ## In preparation/Submitted
 
--   **Distributed Learning of Individualized Treatment Rules via Sign-coherency.** [CHC] <br>
-    Optimal treatment assignment for distributed data with heterogeneous populations (e.g. metaanalysis, federated learning, multi-center trials, etc.) <br>
+-   **title redacted for submission.** [CHC] <br>
+    Optimal treatment assignment for distributed data with heterogeneous populations. <br>
     **Cheng JJ**, Huling JD, Chen G. <br>
     Submitted.
 
