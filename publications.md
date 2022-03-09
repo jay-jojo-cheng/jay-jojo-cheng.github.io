@@ -17,7 +17,7 @@ description: Jay Jojo Cheng's publications
     Understanding the association between PM2.5 air pollution and PCOM incidence. <br>
     Fruh V, Mahalingaiah S, **Cheng JJ**, Aschengrau A, Lane KJ. <br>
     *Environmental Health*. 2022 Jan. Accepted.
-1.  **Multimodal Recruitment for an Internet-Based Pilot Study of Ovulation and Menstruation (OM) Health.** <br>
+1.  **Multimodal Recruitment to Study Ovulation and Menstruation Health: Internet-Based Survey Pilot Study** <br>
     Recruitment strategy and protocol for a women's health study. <br>
     Mahalingaiah S, **Cheng JJ**, Winter M, Rodriguez E, Fruh V, Williams A, Nguyen M, Madhavan R, Karanja P, MacRae J, Konanki SC, Lane KJ, Aschengrau A. <br>
     *Journal of Medical Internet Research*. 2021 Apr. doi:[10.2196/24716](https://doi.org/10.2196/24716)
