@@ -13,10 +13,11 @@ description: Jay Jojo Cheng's publications
 
 ## Publications
 
+
 1.  **Fine Particulate Matter and Polycystic Ovarian Morphology.** <br>
     Understanding the association between PM2.5 air pollution and PCOM incidence. <br>
-    Fruh V, Mahalingaiah S, **Cheng JJ**, Aschengrau A, Lane KJ. <br>
-    *Environmental Health*. 2022 Jan. Accepted.
+    Fruh V, **Cheng JJ**, Aschengrau A, Mahalingaiah S, Lane KJ. <br>
+    *Environmental Health*. 2022 Jan. doi:[10.1186/s12940-022-00835-1](https://doi.org/10.1186/s12940-022-00835-1)
 1.  **Multimodal Recruitment to Study Ovulation and Menstruation Health: Internet-Based Survey Pilot Study** <br>
     Recruitment strategy and protocol for a women's health study. <br>
     Mahalingaiah S, **Cheng JJ**, Winter M, Rodriguez E, Fruh V, Williams A, Nguyen M, Madhavan R, Karanja P, MacRae J, Konanki SC, Lane KJ, Aschengrau A. <br>
