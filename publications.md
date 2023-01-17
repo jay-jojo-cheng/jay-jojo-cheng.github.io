@@ -4,16 +4,13 @@ title: Publications
 description: Jay Jojo Cheng's publications
 ---
 
-## In preparation/Submitted
-
--   **title redacted for submission.** [CHC] <br>
-    Optimal treatment assignment for distributed data with heterogeneous populations. <br>
-    **Cheng JJ**, Huling JD, Chen G. <br>
-    Submitted.
-
 ## Publications
 
 
+1.  **Meta-analysis of Individualized Treatment Rules via Sign-Coherency.** <br>
+    Optimal treatment assignment for distributed data with heterogeneous populations. <br>
+    **Cheng JJ**, Huling JD, Chen G. <br>
+    *Machine Learning for Health*. 2022 Nov. [PDF](https://proceedings.mlr.press/v193/cheng22a/cheng22a.pdf)
 1.  **Fine Particulate Matter and Polycystic Ovarian Morphology.** <br>
     Understanding the association between PM2.5 air pollution and PCOM incidence. <br>
     Fruh V, **Cheng JJ**, Aschengrau A, Mahalingaiah S, Lane KJ. <br>
